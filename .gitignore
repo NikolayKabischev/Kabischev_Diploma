@@ -73,4 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-dir_to_ignore/Downloaded/
+# Additional content to be cleaned
+Content/Downloaded
